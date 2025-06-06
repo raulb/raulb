@@ -2,8 +2,6 @@
 
 I am a software developer who was born in Tenerife and lived in San Francisco although you can find me in Madrid these days.
 
-In 2021, I joined Meroxa, a fully remote company, and I'm still excited to have taken with me everything I learned from my past work experience. I love working distributedly, though I wouldn't mind coming to an office and socializing more.
-
 My main passion is delivering well-crafted interfaces and playing an important role on finding an intuitive solution that requires the least amount of steps as possible.
 
 Ephemeralization is my mantra. Go, Ruby and TypeScript, my favorite languages.
