@@ -4,7 +4,7 @@ I am a software developer who was born in Tenerife and lived in San Francisco al
 
 My main passion is delivering well-crafted interfaces and playing an important role on finding an intuitive solution that requires the least amount of steps as possible.
 
-Ephemeralization is my mantra. Go, Ruby and TypeScript, my favorite languages.
+Ephemeralization is my mantra. TypeScript, Go, and Ruby, my favorite languages.
 
 I am someone who is not shy to value others' contributions, and finds gratification on their success like they were my own. I'm not afraid of holding difficult conversations, and I'm usually the one who mentions the elephant in the room. I'm honest about what I know or don't know, and I never sweep things under the rug.
 
